@@ -1,0 +1,15 @@
+langgraph
+ollama
+anthropic
+python-dotenv
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+scikit-learn
+rich
+streamlit
+openpyxl
+xlrd
+markdown
